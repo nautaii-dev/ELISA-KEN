@@ -57,8 +57,19 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 # 
+#
++ DEPLOY STEPS RAILWAY
 # 
-+  DEPLOY STEPS
+1. Fork This Repository 
+2. Update [settings.js]()
+3. Uplode session.json file
+4. Make acount on [railway.](https://railway.app)
+5. Connect Your Repository to Railway
+6. [Deploy On Railway Watch Video]()
+# 
+# 
+#  
++  DEPLOY STEPS HEROKU 
 # 
 1. Fork this repository 
 2. scan qr code
