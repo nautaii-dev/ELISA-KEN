@@ -22,13 +22,12 @@
 
 # 
 
+<b>Version --> 3.0.0</b>
+# 
 Queen elisa whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
 # 
-
-### [`Try To Deploy Railway`](https://app.railway.com)
-
 
 * 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
 <p align="left">
@@ -85,5 +84,5 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 
 
 
-Thanks For - [tuna](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+<h1>💗</h1><b>Thanks For</b> - [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
 
