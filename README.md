@@ -84,5 +84,8 @@ THANAKS FOR USNING QUEEN ELISA 💃💖
 
 
 
-<h1>💗</h1><b>Thanks For</b> - [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+<h1>💗</h1> 
+<b>Thanks For</b> -
+
+ [xeon](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
 
