@@ -56,7 +56,7 @@ global.owner = ['94760229885']
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚈𝚁𝙺 𝙱𝙾𝚃 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  '𝚈𝚁𝙺 𝙱𝙾𝚃' 
+global.botnma =  '𝚈𝚁𝙺 𝙱𝙾𝚃 𝙾𝙵𝙲' 
 //👇 Your name
 global.ownernma =  '𝚈𝚁𝙺' 
 //👇 Sticker Author Name
